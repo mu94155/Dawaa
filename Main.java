@@ -1,4 +1,5 @@
 public class Main {
+  //creating welcome message
   public static void greeting(){
     System.out.println("Welcome to Dawa App");
   }
